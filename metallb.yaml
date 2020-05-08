@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  namespace: metallb-system
+  name: config
+data:
+  config: |
+    address-polls:
+    - name: teste
+      protocol: layer2
+      address: 
+      - 10.10.10.75-10.10.10.75
