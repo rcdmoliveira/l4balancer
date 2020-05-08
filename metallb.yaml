@@ -8,5 +8,5 @@ data:
     address-pools:
     - name: Teste
       protocol: layer2
-      address: 
+      addresses: 
       - 10.10.10.75-10.10.10.75
