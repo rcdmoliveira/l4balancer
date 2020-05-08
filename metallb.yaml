@@ -6,7 +6,7 @@ metadata:
 data:
   config: |
     address-polls:
-    - name: teste
+    - name: Teste
       protocol: layer2
       address: 
       - 10.10.10.75-10.10.10.75
